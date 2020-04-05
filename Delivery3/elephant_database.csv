@@ -1,0 +1,455 @@
+Location,Country,Region,Year,Estimate,95% CL,Range (km2),Method
+Central Africa,na,Central Africa,2016,24119,2865,783085,Aggregate
+Eastern Africa,na,Eastern Africa,2016,86373,10549,880648,Aggregate
+Southern Africa,na,Southern Africa,2016,293447,16683,1325998,Aggregate
+West Africa,na,West Africa,2016,11489,2584,142500,Aggregate
+Cameroon,Cameroon,Central Africa,2016,6830,944,89718,Aggregate
+Central African Republic,Central African Republic,Central Africa,2016,702,245,24619,Aggregate
+Chad,Chad,Central Africa,2016,794,0,61490,Aggregate
+Congo,Congo,Central Africa,2016,6057,1222,150937,Aggregate
+Democratic Republic of Congo,Democratic Republic of Congo,Central Africa,2016,1794,53,223248,Aggregate
+Equatorial Guinea,Equatorial Guinea,Central Africa,2016,884,676,19701,Aggregate
+Gabon,Gabon,Central Africa,2016,7058,2303,213373,Aggregate
+Abong-Mbang Forest Reserve,Cameroon,Central Africa,2001,0,0,1597,Aggregate
+Banyang-Mbo Wildlife Sanctuary,Cameroon,Central Africa,2007,153,52,667,Dung count
+Campo Ma’an Landscape,Cameroon,Central Africa,2014,539,132,4608,Dung count
+Deng Deng National Park,Cameroon,Central Africa,2012,1,0,884,Dung count
+Korup National Park,Cameroon,Central Africa,2011,10,10,1259,Predictive Model
+Mbam et Djerem National Park,Cameroon,Central Africa,2009,901,388,1433,Dung count
+Mengame Wildlife Sanctuary and Kom National Park,Cameroon,Central Africa,2011,10,0,10000,Predictive Model
+Mt. Cameroon National Park,Cameroon,Central Africa,2013,118,0,676,Survey
+Boumba-Bek National Park,Cameroon,Central Africa,2015,143,78,2499,Dung count
+Dja Faunal Reserve,Cameroon,Central Africa,2015,420,125,5260,Dung count
+Lobeke National Park,Cameroon,Central Africa,2015,1029,456,2173,Dung count
+Lobeke Surrounding Area,Cameroon,Central Africa,2015,2737,603,6006,Dung count
+"Logging Concessions 10-021, 022, 023, 029, and 030",Cameroon,Central Africa,2015,185,86,3678,Dung count
+Mongokele Forest Reserve,Cameroon,Central Africa,2015,547,242,1159,Dung count
+Ngoyla-Mintom Forest,Cameroon,Central Africa,2015,499,207,9242,Dung count
+Nki National Park,Cameroon,Central Africa,2015,565,322,3094,Dung count
+Benoue National Park,Cameroon,Central Africa,2015,0,0,2444,Aerial
+Bouba Ndjidah National Park,Cameroon,Central Africa,2015,0,0,2347,Aerial
+Faro National Park,Cameroon,Central Africa,2015,0,0,4087,Aerial
+Sudanian Area Hunting Blocks,Cameroon,Central Africa,2015,89,288,11720,Aerial
+Takamanda National Park,Cameroon,Central Africa,2013,10,10,633,Recce
+Waza National Park,Cameroon,Central Africa,2007,246,0,1970,Aerial
+Zgague Area,Cameroon,Central Africa,2007,250,0,10,Aerial
+Yabassi Area,Cameroon,Central Africa,2012,5,25,10000,Survey
+Yoko Area,Cameroon,Central Africa,2011,0,0,25,Predictive Model
+Bangassou Forest Reserve,Central African Republic,Central Africa,2004,500,500,12011,"Survey, guess"
+Chinko Drainage Basin,Central African Republic,Central Africa,2015,50,100,19000,"Indirect observations of dung and tracks, Camera traps"
+Dzangha Ndoki National Park and Special Reserve,Central African Republic,Central Africa,2012,631,218,3861,Dung count
+Northern Landscape,Central African Republic,Central Africa,2010,68,113,94962,Aerial
+Yobe-Lidjombe,Central African Republic,Central Africa,2012,152,27,756,Dung count
+Bake-Yamodo-Gore Area,Chad,Central Africa,2015,50,0,3500,NEAP
+Binder Lere Wildlife Reserve Ecosystem,Chad,Central Africa,2014,132,0,1840,Aerial
+Birket Fatime-Eref Area,Chad,Central Africa,2013,7,18,1884,Locals
+Chari Baguirmi-Mayo Kebbi Est,Chad,Central Africa,2014,168,0,3312,Aerial
+Dembo-Djeke Djeke-Sido Area,Chad,Central Africa,2015,20,0,2409,Aerial
+Gagal-Yapala-Beinamar Area,Chad,Central Africa,2015,18,22,4640,NEAP
+Heban-Mourraye area,Chad,Central Africa,2013,6,0,4591,Survey
+Lake Chad-Baga Sola Area,Chad,Central Africa,2015,6,14,963,NEAP
+Lake Chad-Doum Doum Area,Chad,Central Africa,2015,60,0,2363,NEAP
+Lake Fitri Area,Chad,Central Africa,2015,73,0,4167,NEAP
+Larmanaye,Chad,Central Africa,2015,50,0,2180,NEAP
+Mbaibokoum-Mbitoye-Bekan Area,Chad,Central Africa,2015,14,16,3872,NEAP
+Ngourou-Gondei Area,Chad,Central Africa,2015,20,0,300,Guess
+Siniaka-Minia Faunal Reserve,Chad,Central Africa,2015,0,0,4740,Unclear
+Zakouma National Park,Chad,Central Africa,2014,443,0,3201,Aerial
+Conkouati-Douli National Park,Congo,Central Africa,2013,947,180,3850,Dung count
+Lefini,Congo,Central Africa,2007,6,0,445,Survey
+Mayoko,Congo,Central Africa,2005,340,0,2290,Predictive Model
+Mount Fouari/Mavoumbou/Nyanga complex,Congo,Central Africa,2005,200,0,1017,Dung count
+MPD area,Congo,Central Africa,2012,36,0,1139,Dung count
+Bailly Swamps North,Congo,Central Africa,2011,827,656,4210,Dung count
+Batanga,Congo,Central Africa,2012,104,153,1029,Dung count
+Lac Tele Community Reserve,Congo,Central Africa,2011,296,428,6054,Dung count
+Mokabi Logging Concession,Congo,Central Africa,2003,380,182,2669,Dung count
+Nouabale Ndoki National Park,Congo,Central Africa,2011,2324,544,3962,Dung count
+Nouabale Ndoki Peripheral Zone,Congo,Central Africa,2011,5345,2133,13016,Dung count
+Djoua-Ivindo,Congo,Central Africa,2015,1311,716,11415,Dung count
+Lossi-Kelle,Congo,Central Africa,2006,490,0,5051,Guess
+Messok-Dja Forest Area,Congo,Central Africa,2013,346,202,1457,Dung count
+Ngombe-Pikounda-Ntokou area,Congo,Central Africa,2014,4143,1459,16186,Dung count
+Odzala Kokoua National Park,Congo,Central Africa,2012,9292,2206,13525,Dung count
+Ogooue-Leketi,Congo,Central Africa,2009,200,114,1025,Dung count
+Bili Bere Hunting Zone,Democratic Republic of Congo,Central Africa,2012,365,217,4390,Dung count
+Bushimae,Democratic Republic of Congo,Central Africa,2010,0,0,4870,Survey
+Garamba Ecosystem,Democratic Republic of Congo,Central Africa,2014,1718,0,3581,Aerial
+Garamba Surrounding Area,Democratic Republic of Congo,Central Africa,2014,206,0,4118,Aerial
+Kahuzi-Biega National Park (lowland),Democratic Republic of Congo,Central Africa,2010,50,50,6138,Guess
+Kahuzi-Biega National Park,Democratic Republic of Congo,Central Africa,2010,20,0,584,Guess
+Lomako Yokokala Faunal Reserve,Democratic Republic of Congo,Central Africa,2014,105,40,1206,Dung count
+Luama Hunting Zone,Democratic Republic of Congo,Central Africa,2013,21,0,9469,Guess
+Make National Park,Democratic Republic of Congo,Central Africa,2015,100,650,11508,Survey
+Okapi Faunal Reserve,Democratic Republic of Congo,Central Africa,2011,1701,888,12787,Dung count
+Rubi Tele Hunting Zone,Democratic Republic of Congo,Central Africa,2011,5,20,3100,Dung and track counts
+Salonga National Park,Democratic Republic of Congo,Central Africa,2004,1186,692,25141,Dung count
+Salonga Outside,Democratic Republic of Congo,Central Africa,2006,2800,0,25140,Guess
+Sankuru Natural Reserve,Democratic Republic of Congo,Central Africa,2009,0,0,23161,Survey
+Swa Kibula,Democratic Republic of Congo,Central Africa,2012,20,0,12326,Guess
+Tshuapa Lomami Landscape,Democratic Republic of Congo,Central Africa,2008,500,500,40000,Dung count
+Upemba National Park,Democratic Republic of Congo,Central Africa,2011,40,20,11370,Guess
+Virunga (Mikeno) National Park,Democratic Republic of Congo,Central Africa,2003,43,0,256,Dung count
+Virunga (North & Central) National Park,Democratic Republic of Congo,Central Africa,2014,35,60,4810,Aerial
+Virunga (South) National Park,Democratic Republic of Congo,Central Africa,2002,75,0,1290,Guess
+Rio Muni Region,Equatorial Guinea,Central Africa,2011,884,676,24635,Dung count
+Djouah Belinga,Gabon,Central Africa,2002,4035,0,4339,Predictive Model
+Evaro Zone,Gabon,Central Africa,2006,469,525,2365,Dung count
+Kivoro,Gabon,Central Africa,2008,900,693,2337,Dung count
+Loango National Park,Gabon,Central Africa,2007,290,383,1510,Predictive Model
+Moukalaba-Doudou Central South,Gabon,Central Africa,2011,236,60,609,Dung count
+Ivindo National Park,Gabon,Central Africa,2009,3489,732,3864,Dung count
+Lope National Park,Gabon,Central Africa,2009,4142,2167,4486,Dung count
+Lope-Waka Corridor,Gabon,Central Africa,2008,1343,776,3000,Dung count
+Waka National Park,Gabon,Central Africa,2006,690,773,1061,Dung count
+Mayombe Ecosystem,Gabon,Central Africa,2011,299,335,1682,Predictive Model
+Mayumba National Park,Gabon,Central Africa,2011,60,68,161,Dung count
+Minkebe National Park,Gabon,Central Africa,2013,6875,4588,11956,Dung count
+Monts Birougou National Park,Gabon,Central Africa,2007,216,0,1332,Dung count
+Monts de Cristal Ecosystem,Gabon,Central Africa,2006,2416,2707,5300,Dung count
+Mwagna Buffer,Gabon,Central Africa,2004,151,168,2020,Dung count
+Mwagna National Park,Gabon,Central Africa,2012,1680,733,1581,Dung count
+Plateaux Bateke National Park,Gabon,Central Africa,2006,301,336,2042,Dung count
+Pongara National Park,Gabon,Central Africa,2006,344,152,378,Dung count
+Rest of Gabon Forest Region,Gabon,Central Africa,2011,32378,0,145497,Predictive Model
+Wonga-Wongue Presidential Reserve,Gabon,Central Africa,2015,2000,1000,4967,Aerial
+Eritrea,Eritrea,Eastern Africa,2016,0,0,5275,Aggregate
+Ethiopia,Ethiopia,Eastern Africa,2016,1017,0,22264,Aggregate
+Kenya,Kenya,Eastern Africa,2016,22809,0,130725,Aggregate
+Rwanda,Rwanda,Eastern Africa,2016,88,0,1079,Aggregate
+Somalia,Somalia,Eastern Africa,2016,0,0,4525,Aggregate
+South Sudan,South Sudan,Eastern Africa,2016,7103,5911,309811,Aggregate
+Tanzania,Tanzania,Eastern Africa,2016,50433,8502,389921,Aggregate
+Uganda,Uganda,Eastern Africa,2016,4923,2012,17048,Aggregate
+Gash-Setit,Eritrea,Eastern Africa,2014,100,20,5275,Guess
+Alitash National Park,Ethiopia,Eastern Africa,2015,20,0,2600,Guess
+Babille Elephant Sanctuary,Ethiopia,Eastern Africa,2015,250,0,6982,Guess
+Chebera Churchura National Park,Ethiopia,Eastern Africa,2015,420,0,3160,Guess
+Dabus Valley Controlled Hunting Area,Ethiopia,Eastern Africa,2015,20,0,2127,Guess
+Gambella,Ethiopia,Eastern Africa,2015,606,0,19366,Aerial
+Geralle National Park,Ethiopia,Eastern Africa,2015,50,0,4212,Guess
+Kafta-Sheraro National Park,Ethiopia,Eastern Africa,2015,300,0,1130,Guess
+Mago National Park,Ethiopia,Eastern Africa,2015,80,0,10000,Guess
+Mizan Seferi Controlled Hunting Area,Ethiopia,Eastern Africa,2015,20,0,3160,Guess
+Omo National Park,Ethiopia,Eastern Africa,2014,411,0,3146,Aerial
+Aberdare National Park,Kenya,Eastern Africa,2005,1840,461,767,Unclear
+Aberdare outside,Kenya,Eastern Africa,2005,1700,472,663,Unclear
+Kipipiri Forest Reserve,Kenya,Eastern Africa,2005,13,25,43,Unclear
+Amboseli Ecosystem,Kenya,Eastern Africa,2015,1656,0,5547,Survey
+Arabuko Sokoke Forest Reserve,Kenya,Eastern Africa,2002,184,43,415,Dung count
+Kerio Valley,Kenya,Eastern Africa,2015,311,0,122,Aerial
+Laikipia-Samburu Ecosystem,Kenya,Eastern Africa,2012,6365,0,35247,Aerial
+Lamu District,Kenya,Eastern Africa,2015,60,0,15363,Aerial
+Loroki Forest,Kenya,Eastern Africa,2015,0,0,596,Guess
+Magadi Ecosystem,Kenya,Eastern Africa,2013,449,0,6348,Aerial
+Masai Mara National Reserve,Kenya,Eastern Africa,2014,876,0,1509,Aerial
+North Narok Landscape,Kenya,Eastern Africa,2014,532,0,1978,Aerial
+Masai Mara Outside,Kenya,Eastern Africa,2014,20,0,310,Aerial
+Transmara,Kenya,Eastern Africa,2015,100,0,320,Guess
+Marsabit,Kenya,Eastern Africa,2014,100,39,137,Dung count
+Mau Forest Complex,Kenya,Eastern Africa,1995,1003,0,1267,Dung count
+Kora National Park,Kenya,Eastern Africa,2014,0,0,1618,Aerial
+Meru National Park and Northwest Bisanadi,Kenya,Eastern Africa,2015,659,0,1005,Aerial
+Mwingi National Reserve,Kenya,Eastern Africa,2007,0,0,682,Aerial
+Rahole National Reserve,Kenya,Eastern Africa,2007,27,0,1477,Aerial
+Southeast Bisanadi National Reserve,Kenya,Eastern Africa,2014,0,0,593,Aerial
+Mt Elgon National Park & National Reserve,Kenya,Eastern Africa,2015,200,0,1083,Guess
+Mt Kenya National Park & National Reserve,Kenya,Eastern Africa,2001,2911,640,2007,Dung count
+Mwea National Reserve,Kenya,Eastern Africa,2015,71,0,79,Aerial
+Nasolot and S. Turkana,Kenya,Eastern Africa,2015,351,0,581,Aerial
+Shimba Hills Ecosystem,Kenya,Eastern Africa,2012,274,0,274,Aerial
+Chyulu National Park,Kenya,Eastern Africa,2014,42,0,1180,Aerial
+South Kitui National Reserve,Kenya,Eastern Africa,2014,0,0,1930,Aerial
+Tsavo Naitonal Park,Kenya,Eastern Africa,2014,9504,0,20432,Aerial
+Tsavo (outside),Kenya,Eastern Africa,2014,1612,0,21081,Aerial
+Akagera National Park,Rwanda,Eastern Africa,2013,88,0,1087,Aerial
+Volcans National Park,Rwanda,Eastern Africa,2003,37,0,150,Unclear
+Lag Badana Bushbush,Somalia,Eastern Africa,1995,70,0,4500,Unclear
+Badingilo-Boma Corridor,South Sudan,Eastern Africa,2009,0,0,10468,Aerial
+Badingilo Ecosystem,South Sudan,Eastern Africa,2009,0,0,16897,Aerial
+Boma National Park,South Sudan,Eastern Africa,2007,606,836,30801,Aerial
+Jonglei Ecosystem,South Sudan,Eastern Africa,2007,5462,5644,70456,Aerial
+Kidepo Game Reserve,South Sudan,Eastern Africa,2008,0,0,530,Unclear
+Nimule National Park,South Sudan,Eastern Africa,2012,118,179,400,Dung count
+Shambe Area,South Sudan,Eastern Africa,2010,135,0,13610,Aerial
+Southern National Park,South Sudan,Eastern Africa,2007,782,1425,26711,Aerial
+Arusha National Park,Tanzania,Eastern Africa,2014,200,0,322,Guess
+Burigi-Biharamulo Ecosystem,Tanzania,Eastern Africa,2014,110,0,4713,Aerial
+Inyonga Game Conservation Area,Tanzania,Eastern Africa,2002,600,0,6050,Unclear
+Katavi National Park,Tanzania,Eastern Africa,2014,3128,1944,4187,Aerial
+Katavi Rukwa,Tanzania,Eastern Africa,2014,2488,1859,11673,Aerial
+Rukwa Game Reserve,Tanzania,Eastern Africa,2014,122,131,4092,Aerial
+Kilimanjaro Forest Reserve,Tanzania,Eastern Africa,2003,793,0,499,Unclear
+Mkomai Game Reserve,Tanzania,Eastern Africa,2014,59,0,3509,Aerial
+Moyowosi-Kigosi Game Reserve,Tanzania,Eastern Africa,2014,1645,2389,19520,Aerial
+Natron Landscape and West Kilimanjaro,Tanzania,Eastern Africa,2013,200,0,10060,Aerial
+Piti East Hunting Block,Tanzania,Eastern Africa,2002,200,100,2223,Unclear
+Itigi Extension,Tanzania,Eastern Africa,2015,1553,2956,2596,Aerial
+Ruaha-Rungwa Ecosystem,Tanzania,Eastern Africa,2015,14284,6123,50608,Aerial
+Rubondo Island National Park,Tanzania,Eastern Africa,2014,102,35,210,Dung
+Saadani National Park,Tanzania,Eastern Africa,2014,30,0,2502,Survey
+Sagara Nyamagoma Ecosystem,Tanzania,Eastern Africa,2014,503,592,11922,Aerial
+Masasi,Tanzania,Eastern Africa,2014,16,31,5726,Aerial
+Selous-Mikumi Ecosystem,Tanzania,Eastern Africa,2014,14040,3252,83907,Aerial
+Selous-Niassa,Tanzania,Eastern Africa,2014,1161,1341,16097,Aerial
+Loliondo Game Controlled Area,Tanzania,Eastern Africa,2009,0,0,5356,Aerial
+Serengeti Ecosystem,Tanzania,Eastern Africa,2014,6087,0,23660,Aerial
+Lake Mantra,Tanzania,Eastern Africa,2014,104,0,882,Aerial
+Mto wa Mbu,Tanzania,Eastern Africa,2014,19,0,191,Aerial
+Tarangire National Park,Tanzania,Eastern Africa,2014,3282,0,2637,Aerial
+Tarangire (outside),Tanzania,Eastern Africa,2014,797,0,13657,Aerial
+Ugalla East,Tanzania,Eastern Africa,2014,146,278,6391,Aerial
+Ugalla Game Reserve,Tanzania,Eastern Africa,2014,659,549,4857,Aerial
+Bwindi National Park,Uganda,Eastern Africa,2015,43,0,336,Guess
+Katonga Game Reserve,Uganda,Eastern Africa,2015,20,0,214,Guess
+Kibale National Park,Uganda,Eastern Africa,2010,487,0,795,Dung count
+Kidepo Valley National Park and Karenga Wildlife Community Area,Uganda,Eastern Africa,2014,621,0,2398,Aerial
+Madi East,Uganda,Eastern Africa,2009,19,0,10000,Survey
+Mgahinga Gorilla National Park,Uganda,Eastern Africa,2015,11,0,67,Guess
+Murchison Falls Conservation Area,Uganda,Eastern Africa,2014,1352,900,6235,Aerial
+Otze Forest,Uganda,Eastern Africa,2004,6,0,200,Guess
+Queen Elizabeth Conservation Area,Uganda,Eastern Africa,2014,2904,1800,2259,Aerial
+Rwenzori National Park,Uganda,Eastern Africa,2003,20,0,929,Unclear
+Sango Bay,Uganda,Eastern Africa,2015,36,0,305,Guess
+Semliki National Park,Uganda,Eastern Africa,1998,30,0,195,Unclear
+Toro Semliki Wildlife Reserve,Uganda,Eastern Africa,2015,27,0,784,Aerial
+Angola,Angola,Southern Africa,2016,3396,1562,323270,Aggregate
+Botswana,Botswana,Southern Africa,2016,131626,12508,228073,Aggregate
+Malawi,Malawi,Southern Africa,2016,1307,0,7789,Aggregate
+Mozambique,Mozambique,Southern Africa,2016,10884,2229,320402,Aggregate
+Namibia,Namibia,Southern Africa,2016,22754,4306,164069,Aggregate
+South Africa,South Africa,Southern Africa,2016,18841,0,30651,Aggregate
+Swaziland,Swaziland,Southern Africa,2016,42,0,50,Aggregate
+Zambia,Zambia,Southern Africa,2016,21967,4704,170466,Aggregate
+Zimbabwe,Zimbabwe,Southern Africa,2016,82630,8589,81228,Aggregate
+Bongola Area,Angola,Southern Africa,2014,0,0,1505,Unclear
+Caua Camp,Angola,Southern Africa,2002,36,0,9500,Survey
+Kambondo Forest,Angola,Southern Africa,2015,10,15,75,Guess
+Quicama National Park,Angola,Southern Africa,2002,50,0,9500,Unclear
+Southeast Angola,Angola,Southern Africa,2015,3396,1562,41542,Aerial
+Ghanzi District,Botswana,Southern Africa,2015,797,437,51269,Aerial
+Northern Botswana,Botswana,Southern Africa,2014,129939,12501,98387,Aerial
+Tuli Game Reserve,Botswana,Southern Africa,2014,890,0,1456,Aerial
+Kasungu National Park,Malawi,Southern Africa,2014,40,0,2316,Aerial
+Liwonde National Park,Malawi,Southern Africa,2014,777,0,675,Aerial
+Majete Wildlife Reserve,Malawi,Southern Africa,2015,300,0,860,Guess
+Nkhotakota Wildlife Reserve,Malawi,Southern Africa,2013,92,0,747,Survey
+Nyika National Park,Malawi,Southern Africa,2013,47,0,1679,Aerial
+Phirilongwe Forest Reserve,Malawi,Southern Africa,2009,6,0,640,Guess
+Thuma and Dedza Salima Forest Reserves,Malawi,Southern Africa,2015,133,0,418,Survey
+Vwaza Marsh Wildlife Reserve,Malawi,Southern Africa,2013,310,0,978,Aerial
+Banhine National Park,Mozambique,Southern Africa,2012,5,0,6510,Aerial
+Cahora Bassa North,Mozambique,Southern Africa,2014,0,0,3028,Aerial
+Magoe District,Mozambique,Southern Africa,2014,1051,721,2290,Aerial
+Tete Province-South,Mozambique,Southern Africa,2014,604,431,14500,Aerial
+Gile National Reserve,Mozambique,Southern Africa,2012,21,145,2456,Dung Count
+Gorongosa National Park,Mozambique,Southern Africa,2014,535,0,1832,Aerial
+Limpopo Extension,Mozambique,Southern Africa,2014,173,259,3240,Aerial
+Limpopo National Park,Mozambique,Southern Africa,2014,1081,641,11971,Aerial
+Maputo Elephant Reserve,Mozambique,Southern Africa,2008,348,0,827,Aerial
+Marromeu Game Reserve,Mozambique,Southern Africa,2014,606,634,2307,Aerial
+Massangena West,Mozambique,Southern Africa,2014,0,0,1574,Aerial
+Chipanje Chetu,Mozambique,Southern Africa,2011,333,309,6641,Aerial
+Niassa Adjacent Blocks,Mozambique,Southern Africa,2014,1015,591,6697,Aerial
+Niassa Ecosystem,Mozambique,Southern Africa,2014,4441,1360,42168,Aerial
+Quirimbas Corridor,Mozambique,Southern Africa,2014,306,365,3605,Aerial
+Quirimbas National Park,Mozambique,Southern Africa,2014,328,361,11298,Aerial
+Palma,Mozambique,Southern Africa,2011,58,83,3816,Aerial
+Rest of Mozambique range,Mozambique,Southern Africa,2008,4278,1075,333225,Guess
+Etosha National Park,Namibia,Southern Africa,2015,2911,637,18549,Aerial
+Khaudum-Kavango,Namibia,Southern Africa,2015,4149,1864,5843,Aerial
+Kunene,Namibia,Southern Africa,2011,314,154,40887,Aerial
+Mangetti Area,Namibia,Southern Africa,2015,90,0,2558,Guess
+Nyae Nyae Conservancy,Namibia,Southern Africa,2015,2264,1729,7001,Aerial
+Zambezi Region,Namibia,Southern Africa,2015,13116,3413,17473,Aerial
+Atherstone Provincial Nature Reserve,South Africa,Southern Africa,2015,105,0,240,Unclear
+Madikwe Provincial Reserve,South Africa,Southern Africa,2015,1006,0,605,Unclear
+Marakele National Park,South Africa,Southern Africa,2012,171,0,380,Aerial
+Pilanesberg Provincial Reserve,South Africa,Southern Africa,2015,240,0,491,Unclear
+Addo Elephant National Park,South Africa,Southern Africa,2012,595,0,1250,Aerial
+Great Fish River Provincial Reserve,South Africa,Southern Africa,2015,2,0,450,Guess
+Kariega Private Game Reserve,South Africa,Southern Africa,2015,41,0,190,Guess
+Knysna Forest,South Africa,Southern Africa,2015,2,0,126,Guess
+Kwandwe Private Game Reserve,South Africa,Southern Africa,2015,57,0,158,Guess
+"Ball, Timbavati Umbabat and Klaserie",South Africa,Southern Africa,2015,2772,0,1666,Unclear
+Kruger National Park,South Africa,Southern Africa,2015,17086,0,19073,Aerial
+Letaba Provincial Nature Reserve,South Africa,Southern Africa,2015,621,0,420,Unclear
+Makuya National Park,South Africa,Southern Africa,2015,9,0,165,Unclear
+Manyeleti Game Reserve,South Africa,Southern Africa,2009,222,0,228,Aerial
+Maremani,South Africa,Southern Africa,2015,64,0,400,Unclear
+Mthetomusha Provincial Reserve,South Africa,Southern Africa,2015,57,0,72,Unclear
+Songimvelo Game Reserve,South Africa,Southern Africa,2015,105,0,490,Unclear
+Mapungubwe Ecosystem,South Africa,Southern Africa,2014,347,0,279,Aerial
+Hluhluwe Imfolozi Game Reserve,South Africa,Southern Africa,2015,700,0,965,Unclear
+Ithala Game Reserve,South Africa,Southern Africa,2015,162,0,297,Unclear
+St. Lucia Reserves,South Africa,Southern Africa,2015,110,0,539,Aerial
+Tembe Elephant Park,South Africa,Southern Africa,2015,220,10,285,Unclear
+Umkhuze Game Reserve,South Africa,Southern Africa,2015,90,0,380,Aerial
+Other Private Reserves,South Africa,Southern Africa,2015,2482,0,10000,Unclear
+Hlane Royal National Park,Swaziland,Southern Africa,2015,25,0,142,Survey
+Malolotja Nature Reserve,Swaziland,Southern Africa,2012,3,0,28,Guess
+Mkhaya Nature Reserve,Swaziland,Southern Africa,2015,14,0,65,Survey
+Bangweulu System,Zambia,Southern Africa,2015,45,0,15115,Guess
+Chete and Sekula Islands,Zambia,Southern Africa,2008,54,0,32,Aerial
+Kafue Game Management Areas,Zambia,Southern Africa,2015,1876,2064,22800,Aerial
+Kafue National Park,Zambia,Southern Africa,2015,4813,2265,22230,Aerial
+Kotakota Game Ranch,Zambia,Southern Africa,1991,19,0,15,Aerial
+Lower Zambezi Ecosystem,Zambia,Southern Africa,2015,973,589,1145,Aerial
+Lower Zambezi Game Management Areas,Zambia,Southern Africa,2015,153,172,1383,Aerial
+Luambe National Park,Zambia,Southern Africa,2015,54,77,344,Aerial
+Luangwa Game Management Areas,Zambia,Southern Africa,2015,5869,3108,16754,Aerial
+Luano,Zambia,Southern Africa,1996,150,0,8930,Unclear
+Lukusuzi National Park,Zambia,Southern Africa,2015,0,0,2610,Aerial
+North Luangwa National Park,Zambia,Southern Africa,2015,4673,1788,4676,Aerial
+South Luangwa National Park,Zambia,Southern Africa,2015,3302,1194,8646,Aerial
+West Petauke Game Management Area,Zambia,Southern Africa,2009,0,0,8143,Aerial
+Tanganyika Ecosystem,Zambia,Southern Africa,2016,100,100,7082,Unclear
+West Lunga National Park,Zambia,Southern Africa,2014,21,0,1684,Aerial
+Kazungula Landscape,Zambia,Southern Africa,2008,0,0,5112,Aerial
+Mosi-oa-Tunya National Park,Zambia,Southern Africa,2008,31,0,67,Aerial
+Sioma Ngwezi,Zambia,Southern Africa,2015,48,78,4482,Aerial
+West Zambezi,Zambia,Southern Africa,2015,0,0,7143,Aerial
+"Tuli, Maramani, Sentinel, Nottingham",Zimbabwe,Southern Africa,2014,212,0,1192,Aerial
+Chewore II,Zimbabwe,Southern Africa,2014,594,333,1058,Aerial
+Chewore I & III,Zimbabwe,Southern Africa,2014,2709,851,1773,Aerial
+Chewore IV,Zimbabwe,Southern Africa,2014,0,0,472,Aerial
+Doma Safari Area,Zimbabwe,Southern Africa,2014,153,194,991,Aerial
+Mavuradonha Wilderness Area,Zimbabwe,Southern Africa,2014,0,0,652,Aerial
+Mukwiche Area,Zimbabwe,Southern Africa,2014,0,0,337,Aerial
+Protea Farm,Zimbabwe,Southern Africa,2001,7,0,14,Unclear
+Rest of Zambezi valley,Zimbabwe,Southern Africa,2014,8200,2029,11720,Aerial
+Mambali Communal Lands,Zimbabwe,Southern Africa,2001,10,0,327,Aerial
+Mangwe Dam,Zimbabwe,Southern Africa,2014,20,40,291,Aerial
+Fuller Forest Land,Zimbabwe,Southern Africa,2014,308,0,10000,Survey
+"Gwaai, Bembesi, and Umguza Forest Lands",Zimbabwe,Southern Africa,2014,165,0,1442,Survey
+Gwampa/Lake Alice Forest Lands,Zimbabwe,Southern Africa,2014,150,0,860,Survey
+Hwange National Park,Zimbabwe,Southern Africa,2014,45846,6244,15168,Aerial
+Matabeleland Communal areas,Zimbabwe,Southern Africa,2014,2201,3062,3075,Aerial
+Matetsi Safari Complex,Zimbabwe,Southern Africa,2014,4843,2968,4384,Aerial
+Nakavango,Zimbabwe,Southern Africa,2014,36,0,10000,Guess
+Ngamo & Sikumi Forest Areas,Zimbabwe,Southern Africa,2014,1101,993,2332,Aerial
+Nyatana Wildlife Management Area,Zimbabwe,Southern Africa,2014,30,0,651,Guess
+Binga Communal Lands,Zimbabwe,Southern Africa,2014,86,162,2201,Aerial
+Chete Safari Area,Zimbabwe,Southern Africa,2014,278,222,1242,Aerial
+Chris Safari Area,Zimbabwe,Southern Africa,2014,1200,755,1530,Aerial
+Chizarira National Park,Zimbabwe,Southern Africa,2014,747,767,2096,Aerial
+Kariba Communal Areas,Zimbabwe,Southern Africa,2014,411,364,3198,Aerial
+Kavira Forest Land,Zimbabwe,Southern Africa,2014,70,30,287,Guess
+Lusulu,Zimbabwe,Southern Africa,2014,0,0,537,Aerial
+Matusadona National Park,Zimbabwe,Southern Africa,2014,669,251,1366,Aerial
+North Gokwe Communal Lands,Zimbabwe,Southern Africa,2014,0,0,3096,Aerial
+Sijarira Forest Area,Zimbabwe,Southern Africa,2014,16,21,261,Aerial
+Shangani Ranch,Zimbabwe,Southern Africa,2014,174,0,628,Survey
+Bubiana Conservancy,Zimbabwe,Southern Africa,2014,100,0,1772,Survey
+Bubble Valley Conservancy,Zimbabwe,Southern Africa,2014,500,100,2895,Survey
+Chiredzi River Conservancy,Zimbabwe,Southern Africa,2014,55,0,895,Survey
+Gonarezhou National Par,Zimbabwe,Southern Africa,2014,11120,2709,4941,Aerial
+Mahenye Ward,Zimbabwe,Southern Africa,2014,332,519,221,Aerial
+Malapati Safari Area,Zimbabwe,Southern Africa,2014,0,0,177,Aerial
+Malilangwe Conservancy,Zimbabwe,Southern Africa,2013,272,0,425,Aerial
+Matibi II Communal Lands,Zimbabwe,Southern Africa,1996,0,0,400,Aerial
+Nuanetsi Ranch,Zimbabwe,Southern Africa,2014,54,0,10000,Survey
+Save Valley Conservancy,Zimbabwe,Southern Africa,2014,1585,1295,3496,Aerial
+Sengwe Communal Land,Zimbabwe,Southern Africa,2013,35,99,2488,Aerial
+Benin,Benin,West Africa,2016,2984,1460,9112,Aggregate
+Burkina Faso,Burkina Faso,West Africa,2016,6850,2124,15110,Aggregate
+Cote d’Ivoire,Cote d’Ivoire,West Africa,2016,189,135,14578,Aggregate
+Ghana,Ghana,West Africa,2016,994,68,15181,Aggregate
+Guinea,Guinea,West Africa,2016,0,0,1557,Aggregate
+Guinea Bissau,Guinea Bissau,West Africa,2016,0,0,1346,Aggregate
+Liberia,Liberia,West Africa,2016,124,99,28950,Aggregate
+Mali,Mali,West Africa,2016,253,0,25495,Aggregate
+Niger,Niger,West Africa,2016,0,0,2333,Aggregate
+Nigeria,Nigeria,West Africa,2016,94,0,20088,Aggregate
+Senegal,Senegal,West Africa,2016,1,0,1090,Aggregate
+Sierra Leone,Sierra Leone,West Africa,2016,0,0,1353,Aggregate
+Togo,Togo,West Africa,2016,0,0,6307,Aggregate
+Djona Hunting Zone,Benin,West Africa,2015,0,0,1216,Aerial
+Goungoun Classified Forest,Benin,West Africa,2003,0,0,806,Aerial
+Konkombri Hunting Zone,Benin,West Africa,2015,87,86,217,Aerial
+Mekrou Hunting Zone,Benin,West Africa,2015,803,390,1073,Aerial
+Pendjari Biosphere Reserve,Benin,West Africa,2015,1632,1394,1977,Aerial
+W du Benin National Park,Benin,West Africa,2015,462,174,5872,Aerial
+Bontioli Partial & Total Faunal Reserve,Burkina Faso,West Africa,2007,18,2,420,Survey
+Comoe-Leraba Classified Forests,Burkina Faso,West Africa,2005,3,0,1204,Aerial
+Mare aux Hippotames Biosphere Reserve,Burkina Faso,West Africa,2013,1,0,192,Aerial
+Mouhoun Protected Area Complex,Burkina Faso,West Africa,2013,35,0,1976,Aerial
+Nazinga Ecosystem,Burkina Faso,West Africa,2012,893,507,970,Survey
+Niangoloko Forest,Burkina Faso,West Africa,2015,15,0,82,Guess
+Arly National Park,Burkina Faso,West Africa,2015,985,400,1223,Aerial
+Koakrana Hunting Zone,Burkina Faso,West Africa,2015,0,0,265,Aerial
+Kourtiagou Partial Faunal Reserve,Burkina Faso,West Africa,2015,0,0,485,Aerial
+Rest of Aires de lest Hunting Areas,Burkina Faso,West Africa,2015,3868,1570,5312,Aerial
+W du Burkina National Park,Burkina Faso,West Africa,2015,1099,1276,2511,Aerial
+Zabre Department,Burkina Faso,West Africa,2013,0,0,600,Survey
+Abokouamekro Faunal Reserve,Cote d’Ivoire,West Africa,2000,11,0,135,Survey
+Azagny National Park,Cote d’Ivoire,West Africa,2013,3,0,218,Survey
+Beki Bossematie Classified Forest,Cote d’Ivoire,West Africa,2013,15,5,389,Unclear
+Bolo Forest,Cote d’Ivoire,West Africa,1989,5,0,88,Unclear
+Come National Park,Cote d’Ivoire,West Africa,2015,100,0,11665,Unclear
+Davo Forest,Cote d’Ivoire,West Africa,1989,20,0,126,Unclear
+Djambamakrou Forest,Cote d’Ivoire,West Africa,1989,30,0,274,Unclear
+Duekoue Forest,Cote d’Ivoire,West Africa,1997,6,0,536,Unclear
+Fresco Classified Forest,Cote d’Ivoire,West Africa,1998,60,0,2229,Unclear
+Go-Bodienou Forest,Cote d’Ivoire,West Africa,1989,20,0,600,Unclear
+Goin-Cavally Classified Forest,Cote d’Ivoire,West Africa,1989,70,0,1890,Unclear
+Haut Bandama Fauna & Flora Reserve,Cote d’Ivoire,West Africa,2002,20,0,1300,Unclear
+Haut Sassandra Classified Forest,Cote d’Ivoire,West Africa,1997,30,0,1024,Unclear
+Keregbo Forest,Cote d’Ivoire,West Africa,1989,30,0,213,Unclear
+Marahoue National Park,Cote d’Ivoire,West Africa,2014,0,0,1010,Unclear
+Mont Peko National Park,Cote d’Ivoire,West Africa,2000,40,0,340,Unclear
+Mont Sang National Park,Cote d’Ivoire,West Africa,2013,2,0,950,Unclear
+Mont Tingui and Kinkene,Cote d’Ivoire,West Africa,2015,20,0,515,Unclear
+Niegre Classified Forest,Cote d’Ivoire,West Africa,1989,50,0,1056,Unclear
+Okromodou Forest,Cote d’Ivoire,West Africa,1989,50,0,945,Unclear
+Scio Classified Forest,Cote d’Ivoire,West Africa,1989,30,0,1338,Unclear
+Songan Tamin Mabi Yaya Classified Forest,Cote d’Ivoire,West Africa,1993,20,0,1698,Unclear
+Tai National Forest,Cote d’Ivoire,West Africa,2010,189,135,1495,Dung count
+Tene Forest,Cote d’Ivoire,West Africa,1998,5,0,4,Unclear
+Tiapleau Forest,Cote d’Ivoire,West Africa,1989,10,0,380,Unclear
+Ankasa Conservation Area,Ghana,West Africa,2009,56,25,704,Dung count
+Bia Conservation Area,Ghana,West Africa,2009,146,26,306,Dung count
+Chichibon Corridor,Ghana,West Africa,1994,12,3,290,Unclear
+Dadieso Forest Reserve,Ghana,West Africa,2002,7,0,195,Unclear
+Digya National Park,Ghana,West Africa,2006,357,54,3478,Dung count
+Goaso Forest Reserves Complex,Ghana,West Africa,2007,90,41,2035,Dung count
+Kakum Conservation Area,Ghana,West Africa,2004,164,36,366,Dung count
+Mole National Park,Ghana,West Africa,2006,401,0,4504,Aerial
+Red & White Volta Ecosystem,Ghana,West Africa,2006,0,0,1106,Guess
+Oure Kaba,Guinea,West Africa,2007,0,0,691,Unclear
+Ziama,Guinea,West Africa,2011,64,37,1171,Dung count
+Binasse Area,Guinea Bissau,West Africa,2004,0,0,330,Unclear
+Corubal Dulombi Area,Guinea Bissau,West Africa,2004,7,13,1342,Unclear
+Barrobo National Forest,Liberia,West Africa,2015,125,0,640,Guess
+"Gola, Kpelle & Lorma National Forest",Liberia,West Africa,2015,400,0,4255,Guess
+Grebo National Forest,Liberia,West Africa,2015,300,0,2510,Guess
+Krahn Bassa National Forest,Liberia,West Africa,2015,550,0,5142,Guess
+Sapo National Forest,Liberia,West Africa,2009,124,99,630,Dung count
+Wenegisi National Forest,Liberia,West Africa,2015,50,0,130,Guess
+Gourma aerial survey zone,Mali,West Africa,2015,253,0,15125,Aerial
+Gourma: surrounding area,Mali,West Africa,2015,51,0,1287763,Guess
+Babban Rafi Forest,Niger,West Africa,2005,17,0,430,Unclear
+W du Niger National Park,Niger,West Africa,2015,0,0,2294,Aerial
+Andoni Island,Nigeria,West Africa,2011,2,12,215,Dung count
+Chad Basin National Park,Nigeria,West Africa,2015,0,0,2160,Unclear
+Cross River National Park,Nigeria,West Africa,1998,74,56,239,Dung count
+Gashaka Gumti,Nigeria,West Africa,2010,0,0,5960,Unclear
+Ifon Game Reserve,Nigeria,West Africa,2007,5,3,283,Unclear
+Kainji Lake National Park,Nigeria,West Africa,2013,7,0,5340,Survey
+Kambari,Nigeria,West Africa,2015,0,0,2000,Unclear
+Kamuku,Nigeria,West Africa,2015,26,0,2855,Unclear
+Marguba Forest Reserve,Nigeria,West Africa,2006,0,0,710,Aerial
+Okomu Game Sanctuary,Nigeria,West Africa,2015,12,0,1082,Survey
+Omo Forest Reserve,Nigeria,West Africa,1994,30,20,1300,Unclear
+Sambisa Game Reserve,Nigeria,West Africa,2006,0,0,647,Aerial
+Taylor Creek,Nigeria,West Africa,1993,25,0,145,Unclear
+Yankari National Park,Nigeria,West Africa,2011,82,279,2244,Aerial
+Niokolo-Koba National Park,Senegal,West Africa,2012,10,5,8282,Survey
+Babe River Forest,Sierra Leone,West Africa,1995,5,45,349,Unclear
+Gola East Forest Reserve,Sierra Leone,West Africa,2011,0,0,287,Guess
+Gola North Forest Reserve,Sierra Leone,West Africa,1987,50,0,242,Unclear
+Outamba Kilimi National Park,Sierra Leone,West Africa,2006,80,20,358,Unclear
+Abdoulaye Faunal Reserve,Togo,West Africa,2002,4,0,300,Unclear
+Fazao Malfakassa National Park,Togo,West Africa,2015,60,40,1920,Guess
+Fosse aux Lions,Togo,West Africa,2002,0,0,17,Unclear
+Oti-Keran-Mandori Faunal Reserve,Togo,West Africa,2014,10,0,1804,Survey
